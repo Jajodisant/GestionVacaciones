@@ -34,7 +34,10 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
  - empleados.csv <br>
  - vacaciones.csv <br>
 
+<center>
  ## Estructura del proyecto
+</center>
+
  CRUDScope/ <br>
 │ <br>
 ├── main.py                   # Menú principal e inicio de sesión <br>
