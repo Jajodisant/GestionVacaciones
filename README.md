@@ -1,16 +1,3 @@
-## Título
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
-- Elemento 2
-- Elemento 3
-Este es un ejemplo de texto que da entrada a una lista numerada:
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
-
-
 ## PeopleOps Vacation Console
 ### Datos del estudiante
 **Nombre completo:** Jainer Pabón
@@ -53,6 +40,12 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
  - Cada mes completo trabajado acumula 1.5 días de vacaciones.
  - Para solicitar vacaciones, el empleado debe tener al menos 6 meses completos en la empresa.
  - Los domingos no cuentan como días de vacaciones.
- - Los días disponibles se calculan como:
-     ***Días disponibles = (Meses completos × 1.5) − Días ya usados en solicitudes aprobadas***
+ - Los días disponibles se calculan como: <br>
+      ***Días disponibles = (Meses completos × 1.5) − Días ya usados en solicitudes aprobadas***
 
+## Limitaciones y mejoras futuras
+  1. Actualmente la contraseña se guarda en texto plano en usuarios.csv. En el futuro se puede mejorar usando hashing seguro.
+  2. La aplicación no maneja múltiples roles de usuario más allá del administrador.
+  3. Validaciones de fechas y errores de usuario podrían mejorarse para evitar entradas incorrectas.
+  4. Se puede agregar interfaz gráfica para mayor facilidad de uso.
+  5. Integración con base de datos real para reemplazar CSV y permitir consultas más rápidas y confiables.
