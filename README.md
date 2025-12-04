@@ -37,16 +37,15 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
  ## Estructura del proyecto
  CRUDScope/ <br>
 │ <br>
-├── main.py            # Menú principal e inicio de sesión <br>
-├── usuarios.py        # Validación de credenciales <br>
-├── empleados.py       # Registro, listado y consulta de empleados <br>
-├── vacaciones.py      # Solicitudes, aprobación/rechazo y cálculo de días <br>
-├── reportes.py        # Generación de reportes mensuales en CSV <br>
+├── main.py                   # Menú principal e inicio de sesión <br>
+├── usuarios.py               # Validación de credenciales <br>
+├── empleados.py              # Registro, listado y consulta de empleados <br>
+├── vacaciones.py             # Solicitudes, aprobación/rechazo y cálculo de días <br>
+├── reportes.py               # Generación de reportes mensuales en CSV <br>
 │ <br>
-├── usuarios.csv       # Datos de usuarios del sistema <br>
-├── empleados.csv      # Datos de empleados registrados <br>
-├── vacaciones.csv     # Solicitudes de vacaciones <br>
-├── reporte_vacaciones_2025_03.csv  # Ejemplo de reporte <br>
+├── usuarios.csv              # Datos de usuarios del sistema <br>
+├── empleados.csv             # Datos de empleados registrados <br>
+├── vacaciones.csv            # Solicitudes de vacaciones <br>
 │ <br>
 └── README.md
 
