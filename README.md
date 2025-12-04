@@ -2,4 +2,4 @@
 ## Datos del estudiante
 
 **Nombre completo:** Jainer Pabón
-Clan: Turing
+**Clan:** Turing
