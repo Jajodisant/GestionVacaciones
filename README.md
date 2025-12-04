@@ -1,5 +1,5 @@
 # PeopleOps Vacation Console
 ## Datos del estudiante
 
-### Nombre completo: * Jainer Pabón
+**Nombre completo:** Jainer Pabón
 Clan: Turing
