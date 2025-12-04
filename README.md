@@ -34,10 +34,7 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
  - empleados.csv <br>
  - vacaciones.csv <br>
 
-<center>
  ## Estructura del proyecto
-</center>
-
  CRUDScope/ <br>
 │ <br>
 ├── main.py                   # Menú principal e inicio de sesión <br>
@@ -52,4 +49,10 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
 │ <br>
 └── README.md
 
+## Reglas de cálculo
+ - Cada mes completo trabajado acumula 1.5 días de vacaciones.
+ - Para solicitar vacaciones, el empleado debe tener al menos 6 meses completos en la empresa.
+ - Los domingos no cuentan como días de vacaciones.
+ - Los días disponibles se calculan como:
+     ***Días disponibles = (Meses completos × 1.5) − Días ya usados en solicitudes aprobadas***
 
