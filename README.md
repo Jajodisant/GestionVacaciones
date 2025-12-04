@@ -11,9 +11,9 @@ PeopleOps Vacation Console es una aplicación de consola desarrollada en Python 
 
 ## Cómo ejecutar el programa?
 
-  **1**  Abrir la carpeta del proyecto en la terminal.
+  **1**   Abrir la carpeta del proyecto en la terminal.
   
-  **2**  Ejecutar el programa principal:
+  **2**   Ejecutar el programa principal:
   
        python main.py
 
